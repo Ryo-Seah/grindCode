@@ -14,8 +14,3 @@ class Solution:
         for idx in stack:
             s_list[idx] = ''
         return ''.join(s_list)
-
-
-
-
-        
