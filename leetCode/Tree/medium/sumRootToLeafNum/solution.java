@@ -34,3 +34,5 @@ class Solution {
     }
 
 }
+
+// This is a depth first search solution. recruseAdd function may just as well be named DFS
